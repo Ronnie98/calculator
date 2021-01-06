@@ -1,2 +1,2 @@
 # calculator
-a super simple and shitty calculator made using tkinter
+a super simple calculator made using tkinter
